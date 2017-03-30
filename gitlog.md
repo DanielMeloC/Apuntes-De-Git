@@ -1,4 +1,5 @@
 ###git log
+Muestra todo el historial del commit del proyecto
 
 Muestra el historial de commits
 
