@@ -19,3 +19,5 @@ git config --global user.name "usuario"
 git config --global user.name example@example.com;
 git config --global core.editor nano
 git config --list;
+
+Esta linea fué creada en la ram master.
