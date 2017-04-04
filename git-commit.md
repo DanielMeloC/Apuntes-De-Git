@@ -1,10 +1,11 @@
-### git commit --amend
-Este comando utiliza el área de preparación para la configuración.
-Al final terminarás con una sola configuración- la segunda confirmación
-remplaza el resultado de la primera.
+# git commit
+Confirma los cambios agregándolos al directorio git (historial de commits).
 
-Sino hemos hecho cambios desde la última confirmación entonces la instatánea (commit) lucirá exactamente
-igual, y lo unico que cambiaré, será el mensaje del commit.
+## git commit --amend
+Este comando utiliza el área de preparación para la confirmación.
+Al final terminarás con una sola confirmación - la segunda confirmación reemplaza el resultado de la primera.
 
-### git commit -a -m "mensaje del commit"
-Con este comando podemo saltar el area de preparación.
+Si no hemos hecho cambios desde la última confirmación entonces la instantánea (commit) lucirá exactamente igual y lo único que cambiaremos será el mensaje del commit.
+
+## git commit -a -m "mensaje del commit"
+Con este comando podemos saltar el área de preparación.
