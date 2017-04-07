@@ -1,4 +1,4 @@
-#git remote add origin https://github.com/DanielMeloC/Apuntes-De-Git.git
+# git remote add origin https://github.com/DanielMeloC/Apuntes-De-Git.git
 
 Con este comando vinculamos nuestro repositorio local con Github.
 

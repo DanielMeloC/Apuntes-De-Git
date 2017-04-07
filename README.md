@@ -13,9 +13,9 @@ Sistema de control de versiones para el mantenimiento eficiente y confiable de a
 
 ## Configurando Git por primera vez
 ```
-git config --global user.name "John Doe"
-git config --global user.email johndoe@example.com
-git config --global core.editor nano
+git config --global user.name "Daniel Melo"
+git config --global user.email Daniel-Melo@outlook.com
+git config --global core.editor vim
 git config --list
 ```
 
@@ -39,3 +39,15 @@ Con este comando vemos el contenido del archivo, copiamos todo el texto que nos 
 6. Ir a las configuración de nuestro perfil de Github y agregar una nueva llave SSH con el contenido que hemos copiado de `github_rsa.pub`.
 
 Desde ahora podemos hacer pull y push sin que Github nos esté pidiendo los datos de acceso.
+
+## Cuentas Repositorios Remotos
+
+```
+Cuenta Github https://github.com/DanielMeloC
+Cuenta Bitbucket https://bitbucket.org/DanielMeloC
+Cuenta Gitlab https://gitlab.com/DanielMeloC
+
+```
+
+
+
